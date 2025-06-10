@@ -1,0 +1,23 @@
+def show_assistance():
+    print("Welcome to Computer Assistance Program!")
+    print("it is designed to help students who have difficulty operating a computer.")
+    print("\nsome basic computer operations and tips:")
+    print("1. Turning On/Off the Computer:")
+    print("   - To turn on, press the power button on your CPU or laptop.")
+    print("   - To shut down, click the Start menu, then select 'Shut down'.")
+    print("\n2. Using the Mouse and Keyboard:")
+    print("   - Use the mouse to point and click on items on the screen.")
+    print("   - The keyboard is used for typing letters, numbers, and commands.")
+    print("\n3. Opening Programs:")
+    print("   - Click the Start menu, look for the program you want, and click to open it.")
+    print("\n4. Saving Your Work:")
+    print("   - In most programs, click 'File' > 'Save' or use Ctrl+S to save your work.")
+    print("\n5. Internet Browsing:")
+    print("   - Double-click your browser icon (like Chrome or Edge) to open the internet.")
+    print("   - Type a website address in the address bar and press Enter.")
+    print("\n6. Getting More Help:")
+    print("   - If you are stuck, don't hesitate to ask a teacher or search for help online.\n")
+    print("Remember: Practice makes perfect. With time, computer will become easier to use!")
+
+if __name__ == "__main__":
+    show_assistance()
