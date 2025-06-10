@@ -1,0 +1,60 @@
+# password.py
+
+password.py is a Python project designed to help users generate secure passwords and provide assistance with common computer operations.
+
+## Features
+
+- **Password Generator:** Easily create strong, random passwords for your accounts.
+- **Computer Assistance:** Offers guidance and helpful functions for operating your computer.
+
+## Installation
+
+You will need Python installed on your system (version 3.6 or higher recommended).
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/M-web186/password.py.git
+cd password.py
+```
+
+### 2. (Optional) Create a Virtual Environment
+
+It’s good practice to use a virtual environment to manage dependencies:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```
+
+### 3. Install Requirements
+
+If your project has a `requirements.txt` file, install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+If there’s no requirements file, you can usually run the script directly.
+
+## Usage
+
+You can run the main script to generate a password or access computer assistance features:
+
+```bash
+python password.py
+```
+
+Follow the on-screen prompts to generate passwords or receive computer help.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For questions or assistance, please open an issue in the repository.
